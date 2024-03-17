@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Emerald @egolightly81
-- 👀 I’m interested in Data Anlytics, Robotics and Automoation
+- 👀 I’m interested in Data Anlytics, Robotics and Automation
 - 🌱 I’m currently studying a Bachelor of Commerce Double Major in IT and IS
 - 💞️ I’m looking to collaborate on future projects that relate to Data Visualisation and BI Tools
 - 📫 How to reach me emerald.golightly@student.curtin.edu.au
