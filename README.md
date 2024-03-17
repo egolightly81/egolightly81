@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying a Bachelor of Commerce Double Major in IT and IS
 - 💞️ I’m looking to collaborate on future projects that relate to Data Visualisation and BI Tools
 - 📫 How to reach me emerald.golightly@student.curtin.edu.au
-- ✈ I am going to Tokyo for the Keizen Japan Study Tour in November with Curtin Universtity #technology #sustainability
+- ✈ I went to Tokyo for the Keizen Japan Study Tour in November 2023 with Curtin Universtity #technology #sustainability
 
 <!---
 egolightly81/egolightly81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
